@@ -9,4 +9,6 @@ Another important aspect is the integration of search functionality, enabling us
 
 Beyond just recipes, these websites often include blogs, cooking tips, and educational content that help users improve their culinary skills. Whether someone is a beginner learning basic cooking techniques or an experienced cook looking for new ideas, a recipe website acts as a valuable resource. Overall, it combines convenience, creativity, and knowledge, making cooking more accessible and enjoyable for everyone.
 
+## Output
+<img width="1710" height="991" alt="Screenshot 2026-04-05 at 1 22 55 PM" src="https://github.com/user-attachments/assets/e0dc7124-5566-40cf-a874-5e37f15e2cb2" />
 
